@@ -1,16 +1,8 @@
 {
   "files": {
-    "main.css": "/ayman/static/css/main.098050c8.css",
-    "main.js": "/ayman/static/js/main.f698f423.js",
-    "static/media/7.jpg": "/ayman/static/media/7.69295cd037c8d1f0f10a.jpg",
-    "static/media/10.jpg": "/ayman/static/media/10.b0ad7dd67cffd3288e10.jpg",
-    "static/media/2.jpg": "/ayman/static/media/2.ba11518b56a67750cca8.jpg",
-    "static/media/6.jpg": "/ayman/static/media/6.13cded182a424789d1d1.jpg",
+    "main.css": "/ayman/static/css/main.7bd0598e.css",
+    "main.js": "/ayman/static/js/main.7d7599fb.js",
     "static/media/14.jpg": "/ayman/static/media/14.a49d6d3f737c73415908.jpg",
-    "static/media/5.jpg": "/ayman/static/media/5.f1b9ede60b82cdcb08e0.jpg",
-    "static/media/8.jpg": "/ayman/static/media/8.68f9536e7152437d4967.jpg",
-    "static/media/4.jpg": "/ayman/static/media/4.952c9da66564e87b529f.jpg",
-    "static/media/logo.png": "/ayman/static/media/logo.85682635811cfeb335a4.png",
     "static/media/banner-2.jpg": "/ayman/static/media/banner-2.b3092704c29b47c85d65.jpg",
     "static/media/banner-1.jpg": "/ayman/static/media/banner-1.cfeba525561ff2e803bb.jpg",
     "static/media/1.jpg": "/ayman/static/media/1.60fd1b24cee2849ce44b.jpg",
@@ -18,9 +10,14 @@
     "static/media/jacket-2.jpg": "/ayman/static/media/jacket-2.1abdc5041c588a1c9309.jpg",
     "static/media/shampoo.jpg": "/ayman/static/media/shampoo.e7dc678a17a611e75ebd.jpg",
     "static/media/jacket-1.jpg": "/ayman/static/media/jacket-1.033661cf8d44abec754e.jpg",
+    "static/media/jacket-4.jpg": "/ayman/static/media/jacket-4.9e08d38441c780d0d353.jpg",
     "static/media/clothes-2.jpg": "/ayman/static/media/clothes-2.9ec475ca2527fef4d7c2.jpg",
+    "static/media/jacket-3.jpg": "/ayman/static/media/jacket-3.31307348971e7dec1543.jpg",
+    "static/media/2.jpg": "/ayman/static/media/2.ba11518b56a67750cca8.jpg",
     "static/media/3.jpg": "/ayman/static/media/3.b2f958dc41647c7880a4.jpg",
+    "static/media/4.jpg": "/ayman/static/media/4.952c9da66564e87b529f.jpg",
     "static/media/clothes-1.jpg": "/ayman/static/media/clothes-1.f07abfce046063e26c53.jpg",
+    "static/media/logo.png": "/ayman/static/media/logo.4e198066b7df20d10867.png",
     "static/media/banner-bg.jpg": "/ayman/static/media/banner-bg.f588b29145939c559001.jpg",
     "static/media/watch.svg": "/ayman/static/media/watch.ffc6ea8ebdd373b66a6293632ac2d4df.svg",
     "static/media/coat.svg": "/ayman/static/media/coat.c91e5c0a15af91b1e158763c52a9ad9c.svg",
@@ -35,11 +32,11 @@
     "static/media/tee.svg": "/ayman/static/media/tee.c25e52c3bae4106a406b7a0d448ea3cb.svg",
     "static/media/slick.woff": "/ayman/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ayman/index.html",
-    "main.098050c8.css.map": "/ayman/static/css/main.098050c8.css.map",
-    "main.f698f423.js.map": "/ayman/static/js/main.f698f423.js.map"
+    "main.7bd0598e.css.map": "/ayman/static/css/main.7bd0598e.css.map",
+    "main.7d7599fb.js.map": "/ayman/static/js/main.7d7599fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.098050c8.css",
-    "static/js/main.f698f423.js"
+    "static/css/main.7bd0598e.css",
+    "static/js/main.7d7599fb.js"
   ]
 }
